@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @otvostibor
-- 👀 I’m interested in becoming a DevOps.
+- 👀 I’m interested in DevOps and System Administration.
 - 🌱 I’m currently learning Virtualisation, Linux, AWS cloud, GIT, Maven apache, Python, Ansible, Docker, Kubernetes, CI/CD using Kubernetes and Jenkins
 - 📫 How to reach me: contact@otvostibor.hu
 
